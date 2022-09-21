@@ -1,5 +1,5 @@
 
-# Project-6 Plant Home Page
+# Project-6 Plant Home Page [go-live](https://p-06.netlify.app/)
 
 This is simple website of home page. In this project I have only used core css.
 
